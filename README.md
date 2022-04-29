@@ -57,3 +57,6 @@ Installing Facebook Prophet can be a headache. Make sure you have Python 3.8 or 
 
 # 4. Implementation of Demand Forecasting in Python
 Follow along in "CNN_LSTM_Prophet_SARIMA_Models.ipynb".
+
+# 5. Implementation of Scalable Demand Forecasting with PySpark in Google Colab
+Follow along in "Time_Series_at_Scale_with_Spark.ipynb".
