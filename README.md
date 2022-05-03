@@ -1,3 +1,5 @@
+<img src = "https://github.com/youngdataspace/Time-Series-Forecasting-in-Spark/blob/main/Intro.gif?raw=true">
+
 # 1. Introduction
 In this post, we will explore scalable time-series forecasting in PySpark. We will build time-series models using Convolutional Neural Network (CNN), Long Short-Term Memory, Facebook Prophet, and Seasonal ARIMA. We will then train 500 time-series Prophet models in parallel with PySpark in Google Colab. I am going to break down each step in detail, from installing packages to evaluating the models.
 
